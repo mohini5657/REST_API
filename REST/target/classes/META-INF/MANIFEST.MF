@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: mohini
+Build-Jdk: 15.0.1
+Implementation-Title: REST
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example.REST
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/REST
+Created-By: Maven Integration for Eclipse
+
